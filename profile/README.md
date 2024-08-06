@@ -19,4 +19,3 @@ Interested in our work or looking to collaborate? Contact us at [mits@nhlstenden
 - Jeroen Pijpker ([@jeroenpijpker](https://github.com/jeroenpijpker))
 - Jan Martin Muntendam
 - Rob Loves ([@robloves](https://github.com/robloves))
-- Saul Johnson ([@lambdacasserole](https://github.com/lambdacasserole))
