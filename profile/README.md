@@ -20,4 +20,3 @@ Interested in our work or looking to collaborate? Contact us at [mits@nhlstenden
 - Jan Martin Muntendam
 - Rob Loves ([@robloves](https://github.com/robloves))
 - Remco Hassing ([@rhassing1998](https://github.com/rhassing1998))
-- George Makrakis ([@georgemakrakis-nhlstenden](https://github.com/georgemakrakis-nhlstenden))
